@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a3936c4-e563-4932-999d-b171bd654986" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/LibraryTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
     </list>
@@ -24,39 +26,41 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1803" />
+          <entry key="java" value="2241" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1803" />
+          <entry key="JAVA" value="2241" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="363">
+              <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="-2">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -380,15 +384,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/Library.java" />
         <option value="$PROJECT_DIR$/src/test/java/LibraryTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="51" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -396,7 +402,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -404,46 +409,16 @@
               <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
               <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543467622505" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543524454544" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -457,12 +432,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LibraryTest.LowestCalculator">
+  <component name="RunManager" selected="JUnit.LibraryTest.tallyCalculator">
     <configuration name="LibraryTest.LowestCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basiclibrary_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LibraryTest" />
       <option name="METHOD_NAME" value="LowestCalculator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.mapCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basiclibrary_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="METHOD_NAME" value="mapCalculator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest.tallyCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basiclibrary_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="METHOD_NAME" value="tallyCalculator" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -488,28 +483,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTest.testRoll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="testRoll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.LibraryTest.testRoll" />
       <item itemvalue="JUnit.LibraryTest.testContainsDuplicates" />
       <item itemvalue="JUnit.LibraryTest.testAverageCalculator" />
       <item itemvalue="JUnit.LibraryTest.LowestCalculator" />
+      <item itemvalue="JUnit.LibraryTest.mapCalculator" />
+      <item itemvalue="JUnit.LibraryTest.tallyCalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LibraryTest.tallyCalculator" />
+        <item itemvalue="JUnit.LibraryTest.mapCalculator" />
         <item itemvalue="JUnit.LibraryTest.LowestCalculator" />
         <item itemvalue="JUnit.LibraryTest.testAverageCalculator" />
         <item itemvalue="JUnit.LibraryTest.testContainsDuplicates" />
-        <item itemvalue="JUnit.LibraryTest.testRoll" />
       </list>
     </recent_temporary>
   </component>
@@ -527,42 +514,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 14h 14m 50s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 07h 58m 24s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 14h 53m 41s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 07h 59m 10s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 15h 07m 04s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 07h 59m 27s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 15h 07m 36s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 07h 59m 39s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 15h 07m 46s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 09h 06m 39s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 16h 03m 51s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 09h 08m 07s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 16h 04m 41s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 09h 09m 49s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testContainsDuplicates - 2018.11.28 at 19h 40m 20s.xml">
-      <configuration name="LibraryTest.testContainsDuplicates" configurationId="JUnit" />
+    <history-entry file="LibraryTest_mapCalculator - 2018.11.29 at 09h 11m 42s.xml">
+      <configuration name="LibraryTest.mapCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testAverageCalculator - 2018.11.28 at 19h 41m 48s.xml">
-      <configuration name="LibraryTest.testAverageCalculator" configurationId="JUnit" />
+    <history-entry file="LibraryTest_tallyCalculator - 2018.11.29 at 12h 44m 09s.xml">
+      <configuration name="LibraryTest.tallyCalculator" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_testAverageCalculator - 2018.11.28 at 20h 53m 23s.xml">
-      <configuration name="LibraryTest.testAverageCalculator" configurationId="JUnit" />
+    <history-entry file="LibraryTest_tallyCalculator - 2018.11.29 at 12h 47m 06s.xml">
+      <configuration name="LibraryTest.tallyCalculator" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="51" y="23" width="1440" height="800" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -571,7 +557,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2807229" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27966103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -596,20 +582,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="632">
+          <caret line="207" column="70" selection-start-line="207" selection-start-column="70" selection-end-line="207" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="363">
+          <caret line="139" column="13" selection-start-line="139" selection-start-column="13" selection-end-line="139" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

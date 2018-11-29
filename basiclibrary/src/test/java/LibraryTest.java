@@ -4,41 +4,49 @@
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import static org.junit.Assert.*;
 
 public class LibraryTest {
-    @Test public void testSomeLibraryMethod() {
+    @Test
+    public void testSomeLibraryMethod() {
         Library classUnderTest = new Library();
         assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
     }
-//testing for rolls
-    @Test public void testRoll() {
+
+    //testing for rolls
+    @Test
+    public void testRoll() {
         Library classUnderTest = new Library();
         int expected = 3;
         int rolls = Library.roll(3);
         assertEquals(expected, rolls);
     }
+
     //testing duplicates
-    @Test public void testContainsDuplicates() {
+    @Test
+    public void testContainsDuplicates() {
         Library classUnderTest = new Library();
         int[] num = new int[4];
-        num[0]=1;
-        num[1]=2;
-        num[2]=2;
-        num[3]=4;
+        num[0] = 1;
+        num[1] = 2;
+        num[2] = 2;
+        num[3] = 4;
 
         assertTrue("containDuplicates method should return 'true' if it contains duplicates", Library.containsDuplicates(num));
 
         int[] num1 = new int[4];
-        num1[0]=1;
-        num1[1]=2;
-        num1[2]=3;
-        num1[3]=4;
+        num1[0] = 1;
+        num1[1] = 2;
+        num1[2] = 3;
+        num1[3] = 4;
         assertFalse("containDuplicates method should return 'false' if it contains no duplicates", Library.containsDuplicates(num1));
     }
+
     //Testing for average calculator
-    @Test public void testAverageCalculator() {
+    @Test
+    public void testAverageCalculator() {
         Library classUnderTest = new Library();
         int[] nums = new int[4];
         nums[0] = 1;
@@ -47,12 +55,13 @@ public class LibraryTest {
         nums[3] = 4;
         int expected = 2;
 
-        assertEquals(expected,Library.averageCalculator(nums));
+        assertEquals(expected, Library.averageCalculator(nums));
     }
 
     //Testing for lowest average
 
-    @Test public void LowestCalculator() {
+    @Test
+    public void LowestCalculator() {
         Library classUnderTest = new Library();
         int[][] nums = new int[3][2];
         nums[0][0] = 1;
@@ -62,8 +71,64 @@ public class LibraryTest {
         nums[2][0] = 3;
         nums[2][1] = 3;
 
-        int[] expected = {1,2};
+        int[] expected = {1, 2};
 
-        assertArrayEquals(expected,Library.lowestAverage(nums));
+        assertArrayEquals(expected, Library.lowestAverage(nums));
+    }
+
+    //Testing for Maps Calculator
+    @Test
+    public void mapCalculator() {
+        Library classUnderTest = new Library();
+        int[][] weeklyMonthTemperatures = {
+                {66, 64, 58, 65, 71, 57, 60},
+                {57, 65, 65, 70, 72, 65, 51},
+                {55, 54, 60, 53, 59, 57, 61},
+                {65, 56, 55, 52, 55, 62, 57}
+        };
+
+        int expected = 72;
+        String expected1 = "63";
+        String expected2 = "67";
+        int expected3 = 51;
+        assertEquals(expected, Library.maxValueCal(weeklyMonthTemperatures));
+        assertEquals(expected3, Library.minValueCal(weeklyMonthTemperatures));
+        assertTrue("It is true that it contains 63", Library.uniqueValues(weeklyMonthTemperatures).contains(expected1));
+        assertTrue("It is true that it contains 67", Library.uniqueValues(weeklyMonthTemperatures).contains(expected2));
+    }
+
+    //Testing for Tally
+
+    @Test
+    public void tallyCalculator() {
+        Library classUnderTest = new Library();
+        List<String> votes = new ArrayList<>();
+        votes.add("Bush");
+        votes.add("Bush");
+        votes.add("Bush");
+        votes.add("Shrub");
+        votes.add("Hedge");
+        votes.add("Shrub");
+        votes.add("Bush");
+        votes.add("Hedge");
+        votes.add("Bush");
+
+        String expected = "Bush";
+        assertEquals(expected, Library.tally(votes));
+
+        votes.add("Bush");
+        votes.add("Bush");
+        votes.add("Hedge");
+        votes.add("Hedge");
+        votes.add("Hedge");
+        votes.add("Shrub");
+        votes.add("Bush");
+        votes.add("Hedge");
+        votes.add("Hedge");
+
+        String expected1 = "Hedge";
+        assertEquals(expected1, Library.tally(votes));
+
+
     }
 }
