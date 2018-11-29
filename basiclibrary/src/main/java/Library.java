@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
+import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
 /*
@@ -70,6 +68,87 @@ public class Library {
         }
         return ans;
     }
+
+    //Lab3 : Maps
+
+    //Calculating max
+    public static int maxValueCal(int[][] nums) {
+        int max = nums[0][0];
+
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = 0; j < nums[i].length; j++) {
+                if (nums[i][j] > max) {
+                    max = nums[i][j];
+                }
+
+            }
+        }
+        System.out.println("High: " + max);
+        return max;
+    }
+
+    //Calculating Min
+    public static int minValueCal(int[][] nums) {
+        int min = nums[0][0];
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = 0; j < nums[i].length; j++) {
+                if (nums[i][j] < min) {
+                    min = nums[i][j];
+                }
+            }
+        }
+        System.out.println("High: " + min);
+        return min;
+    }
+
+    //Calculating Unique Values
+    public static String uniqueValues(int[][] nums) {
+        HashSet<Integer> uniqueTemps = new HashSet<>();
+        int min = minValueCal(nums);
+        int max = maxValueCal(nums);
+        String statement ="";
+
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = 0; j < nums[i].length; j++) {
+                if (!uniqueTemps.contains(nums[i][j])) {
+                    uniqueTemps.add(nums[i][j]);
+                }
+            }
+        }
+        for (int i = min; i < max; i++) {
+            if (!uniqueTemps.contains(i)) {
+                statement+= "Never saw temperatures " + i + "\n";
+            }
+        }
+        return  statement;
+    }
+
+    //Tally and return winner
+
+    public static String tally (List<String> words){
+        Map<String, Integer> wordsCount = new HashMap<>();
+        ArrayList<Integer> values = new ArrayList<>();
+        int max=0;
+        String name = "";
+
+        for(int i = 0; i<words.size(); i++){
+            if(wordsCount.keySet().contains(words.get(i))){
+                int value = wordsCount.get(words.get(i));
+                wordsCount.put(words.get(i), value+1);
+            }else{
+                wordsCount.put(words.get(i), 1);
+            }
+        }
+        for (String key: wordsCount.keySet()) {
+            if(wordsCount.get(key)> max){
+                max = wordsCount.get(key)+1;
+                name = key;
+            }
+        }
+        return name;
+
+    }
+
 }
 
 
