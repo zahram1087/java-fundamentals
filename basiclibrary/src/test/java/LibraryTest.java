@@ -22,13 +22,20 @@ public class LibraryTest {
     //testing duplicates
     @Test public void testContainsDuplicates() {
         Library classUnderTest = new Library();
-        ArrayList<Integer> guess = new ArrayList<>();
-        guess.add(1);
-        guess.add(2);
-        guess.add(3);
-        guess.add(4);
-        boolean ans = Library.containsDuplicates(guess);
-        assertTrue("containDuplicates method should return 'true'", ans);
+        int[] num = new int[4];
+        num[0]=1;
+        num[1]=2;
+        num[2]=2;
+        num[3]=4;
+
+        assertTrue("containDuplicates method should return 'true' if it contains duplicates", Library.containsDuplicates(num));
+
+        int[] num1 = new int[4];
+        num1[0]=1;
+        num1[1]=2;
+        num1[2]=3;
+        num1[3]=4;
+        assertFalse("containDuplicates method should return 'false' if it contains no duplicates", Library.containsDuplicates(num1));
     }
     //Testing for average calculator
     @Test public void testAverageCalculator() {
@@ -39,9 +46,24 @@ public class LibraryTest {
         nums[2] = 3;
         nums[3] = 4;
         int expected = 2;
-        int ans = Library.averageCalculator(nums);
-        assertEquals(expected,ans);
+
+        assertEquals(expected,Library.averageCalculator(nums));
     }
 
-    //
+    //Testing for lowest average
+
+    @Test public void LowestCalculator() {
+        Library classUnderTest = new Library();
+        int[][] nums = new int[3][2];
+        nums[0][0] = 1;
+        nums[0][1] = 2;
+        nums[1][0] = 2;
+        nums[1][1] = 2;
+        nums[2][0] = 3;
+        nums[2][1] = 3;
+
+        int[] expected = {1,2};
+
+        assertArrayEquals(expected,Library.lowestAverage(nums));
+    }
 }

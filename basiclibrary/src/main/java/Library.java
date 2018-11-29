@@ -26,27 +26,50 @@ public class Library {
         return values.length;
     }
 
-//New Method to Check for duplicates
-
-    public static boolean containsDuplicates(ArrayList<Integer> nums) {
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums.contains(i) == nums.contains(i + 1)) {
-                return true;
+    public static boolean containsDuplicates(int[] nums) {
+        for (int i = 0; i < nums.length; i++) {
+            for(int j = 1+i; j<nums.length; j++) {
+                if (nums[i] == nums[j]) {
+                    return true;
+                }
             }
         }
         return false;
     }
-
+    // average calculator method
     public static int averageCalculator (int[] numArray) {
         int arraySum = 0;
         for (int i = 0; i < numArray.length; i++) {
             arraySum += numArray[i];
         }
-        int average = arraySum / numArray.length;
-        return average;
+        return arraySum/numArray.length;
     }
 
-    //coming up;
+    //lowest average method
+
+    public static int[] lowestAverage (int[][] numArray){
+        int[] ans = new int[2];
+        double average = 0;
+        double lowestAverage = averageCalculator(numArray[0]);
+
+        for (int i = 0; i < numArray.length; i++) {
+            for (int j = 0; j < numArray[i].length; j++) {
+                average = averageCalculator(numArray[j]);
+
+                if (average < averageCalculator(numArray[j + 1])) {
+                    if (average <= lowestAverage) {
+                        lowestAverage = average;
+                        ans = numArray[j];
+                    }
+                } else {
+                    average = averageCalculator(numArray[j + 1]);
+                    ans = numArray[j + 1];
+
+                }
+            }
+        }
+        return ans;
+    }
 }
 
 
