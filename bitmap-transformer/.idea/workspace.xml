@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a3936c4-e563-4932-999d-b171bd654986" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/modules/bitmap-transformer_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/modules/bitmap-transformer_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/bitmap-transformer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/src/main/java/Bitmap.java" afterDir="false" />
+    <list default="true" id="7c597a86-c14c-43d2-a65d-9fc114e388a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/bitmap-transformer_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/bitmap-transformer_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitmap-transformer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bitmap.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../linter/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../linter/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
@@ -35,11 +35,11 @@
       <change afterPath="$PROJECT_DIR$/../linter/.idea/modules/linter_test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../linter/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../linter/linter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/LibraryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/out/production/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/out/production/classes/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/out/test/classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/out/test/classes/LibraryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/src/main/java/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/src/test/java/LibraryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -56,46 +56,44 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1561878022">
+    <session id="-329560132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
           <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2480" />
+          <entry key="dummy" value="6" />
+          <entry key="java" value="993" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2480" />
+          <entry key="JAVA" value="993" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-433">
-              <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+            <state relative-caret-position="416">
+              <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,18 +102,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Bitmap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-871">
-              <caret line="111" column="152" selection-start-line="111" selection-start-column="152" selection-end-line="111" selection-end-column="152" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -136,14 +138,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="basiclibrary" />
+              <option name="name" value="bitmap-transformer" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="basiclibrary" />
+                <option name="name" value="bitmap-transformer" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -157,7 +159,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'basiclibrary'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'bitmap-transformer'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -167,7 +169,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'basiclibrary'." />
+                <option name="description" value="Displays the sub-projects of root project 'bitmap-transformer'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -177,14 +179,19 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'basiclibrary'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'bitmap-transformer'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'basiclibrary'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'bitmap-transformer'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files." />
@@ -202,14 +209,24 @@
                 <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'basiclibrary'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'bitmap-transformer'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
@@ -217,9 +234,14 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'basiclibrary'." />
+                <option name="description" value="Displays the tasks runnable from root project 'bitmap-transformer'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Initializes a new Gradle build." />
@@ -237,7 +259,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'basiclibrary'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'bitmap-transformer'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -262,7 +284,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'basiclibrary'." />
+                <option name="description" value="Displays all dependencies declared in root project 'bitmap-transformer'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -287,7 +309,17 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'basiclibrary'." />
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'bitmap-transformer'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -298,11 +330,11 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6173528363000" />
+        <entry key="$PROJECT_DIR$" value="6174244827000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1472778929" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="474392886" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="307973072" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3742115986" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="962059232" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -321,7 +353,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="basiclibrary" />
+              <option name="name" value="bitmap-transformer" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/ant-1.9.11.jar" />
@@ -412,21 +444,22 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../../dataStructure" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../basiclibrary" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../linter" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/Library.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LibraryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Transform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bitmap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-2" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="800" />
@@ -440,22 +473,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bitmap-transformer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitmap-transformer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitmap-transformer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitmap-transformer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543604555870" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543604555885" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -469,178 +507,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LibraryTest.uniqueCalculatorMapsTest">
-    <configuration name="LibraryTest.LowestCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="LowestCalculator" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LibraryTest.mapCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="mapCalculator" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LibraryTest.tallyCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="tallyCalculator" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LibraryTest.testAverageCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="testAverageCalculator" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LibraryTest.uniqueCalculatorMapsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="uniqueCalculatorMapsTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.LibraryTest.testAverageCalculator" />
-      <item itemvalue="JUnit.LibraryTest.LowestCalculator" />
-      <item itemvalue="JUnit.LibraryTest.mapCalculator" />
-      <item itemvalue="JUnit.LibraryTest.tallyCalculator" />
-      <item itemvalue="JUnit.LibraryTest.uniqueCalculatorMapsTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.LibraryTest.uniqueCalculatorMapsTest" />
-        <item itemvalue="JUnit.LibraryTest.tallyCalculator" />
-        <item itemvalue="JUnit.LibraryTest.mapCalculator" />
-        <item itemvalue="JUnit.LibraryTest.LowestCalculator" />
-        <item itemvalue="JUnit.LibraryTest.testAverageCalculator" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9a3936c4-e563-4932-999d-b171bd654986" name="Default Changelist" comment="" />
-      <created>1543382185968</created>
+      <changelist id="7c597a86-c14c-43d2-a65d-9fc114e388a4" name="Default Changelist" comment="" />
+      <created>1543561265364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543382185968</updated>
+      <updated>1543561265364</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.29 at 19h 43m 18s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 33m 28s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 33m 42s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 35m 15s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 37m 19s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 38m 24s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 49m 58s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 50m 45s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 54m 40s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 56m 22s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="23" width="1440" height="800" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.17514125" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42937854" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.011299435" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32909605" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bitmap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="207" column="70" selection-start-line="207" selection-start-column="70" selection-end-line="207" selection-end-column="70" />
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-871">
-          <caret line="111" column="152" selection-start-line="111" selection-start-column="152" selection-end-line="111" selection-end-column="152" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
-          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+        <state relative-caret-position="416">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

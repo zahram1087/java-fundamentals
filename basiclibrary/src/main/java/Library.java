@@ -83,7 +83,7 @@ public class Library {
 
             }
         }
-        System.out.println("High: " + max);
+
         return max;
     }
 
@@ -97,16 +97,15 @@ public class Library {
                 }
             }
         }
-        System.out.println("High: " + min);
+
         return min;
     }
 
     //Calculating Unique Values
-    public static String uniqueValues(int[][] nums) {
+    public static void uniqueValues(int[][] nums) {
         HashSet<Integer> uniqueTemps = new HashSet<>();
         int min = minValueCal(nums);
         int max = maxValueCal(nums);
-        String statement ="";
 
         for (int i = 0; i < nums.length; i++) {
             for (int j = 0; j < nums[i].length; j++) {
@@ -115,12 +114,14 @@ public class Library {
                 }
             }
         }
+
+        System.out.println("High: "+ max);
+        System.out.println("Low: "+ min);
         for (int i = min; i < max; i++) {
             if (!uniqueTemps.contains(i)) {
-                statement+= "Never saw temperatures " + i + "\n";
+                System.out.println("Never saw temperature: "+i);
             }
         }
-        return  statement;
     }
 
     //Tally and return winner
@@ -145,7 +146,8 @@ public class Library {
                 name = key;
             }
         }
-        return name;
+        return name+ " received the most votes!";
+
 
     }
 
