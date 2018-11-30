@@ -16,4 +16,10 @@ int width;
         this.outPutFilePath = outPutFilePath;
         this.transfromName = transfromName;
     }
+//method one
+//method two
+//method three
+//method four
+
+
 }
