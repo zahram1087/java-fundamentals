@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a3936c4-e563-4932-999d-b171bd654986" name="Default Changelist" comment="">
+    <list default="true" id="07305973-8cff-426b-aff4-24d3fb359ee6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
@@ -20,26 +20,26 @@
       <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitmap-transformer/bitmap-transformer.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bitmap-transformer/src/main/java/Bitmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/modules/linter_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/modules/linter_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/linter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/LibraryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/linter_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/linter_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/out/production/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/out/production/classes/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/out/test/classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/out/test/classes/LibraryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/src/main/java/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basiclibrary/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basiclibrary/src/test/java/LibraryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -56,35 +56,41 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1561878022">
+    <session id="-2146425382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
           <entry key="java" value="2" />
+          <entry key="js" value="6" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
+          <entry key="JavaScript" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2480" />
+          <entry key="java" value="1123" />
+          <entry key="js" value="47" />
+          <entry key="md" value="254" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2480" />
+          <entry key="JAVA" value="1123" />
+          <entry key="JavaScript" value="47" />
+          <entry key="PLAIN_TEXT" value="254" />
         </counts>
       </usages-collector>
     </session>
@@ -92,10 +98,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-433">
-              <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+            <state relative-caret-position="139">
+              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,13 +110,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-871">
-              <caret line="111" column="152" selection-start-line="111" selection-start-column="152" selection-end-line="111" selection-end-column="152" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="148">
+              <caret line="107" column="46" selection-start-line="107" selection-start-column="46" selection-end-line="107" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -136,14 +139,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="basiclibrary" />
+              <option name="name" value="linter" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="basiclibrary" />
+                <option name="name" value="linter" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -157,7 +160,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'basiclibrary'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'linter'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -167,7 +170,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'basiclibrary'." />
+                <option name="description" value="Displays the sub-projects of root project 'linter'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -177,14 +180,19 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'basiclibrary'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'linter'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'basiclibrary'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'linter'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files." />
@@ -202,14 +210,24 @@
                 <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'basiclibrary'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'linter'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
@@ -217,9 +235,14 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'basiclibrary'." />
+                <option name="description" value="Displays the tasks runnable from root project 'linter'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Initializes a new Gradle build." />
@@ -237,7 +260,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'basiclibrary'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'linter'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -262,7 +285,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'basiclibrary'." />
+                <option name="description" value="Displays all dependencies declared in root project 'linter'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -287,7 +310,17 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'basiclibrary'." />
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'linter'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -298,11 +331,11 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6173528363000" />
+        <entry key="$PROJECT_DIR$" value="6174199215000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1472778929" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="474392886" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="307973072" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3742115986" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1028628326" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -321,7 +354,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="basiclibrary" />
+              <option name="name" value="linter" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/ant-1.9.11.jar" />
@@ -412,6 +445,7 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../../dataStructure" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../basiclibrary" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
@@ -419,20 +453,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/Library.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LibraryTest.java" />
+        <option value="$PROJECT_DIR$/src/linter.md" />
+        <option value="$PROJECT_DIR$/resources/error-free.js" />
+        <option value="$PROJECT_DIR$/resources/few-errors.js" />
+        <option value="$PROJECT_DIR$/resources/one-error.js" />
+        <option value="$PROJECT_DIR$/resources/many-errors.js" />
+        <option value="$PROJECT_DIR$/src/test/java/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-2" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -440,22 +477,53 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="basiclibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basiclibrary" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="linter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="linter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="linter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543604555870" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543605195945" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -469,71 +537,68 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LibraryTest.uniqueCalculatorMapsTest">
-    <configuration name="LibraryTest.LowestCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
+  <component name="RunManager" selected="JUnit.AppTest.testlinterForJsErrorFree">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="linter_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testlinterForJsEmptyFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linter_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="LowestCalculator" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="testlinterForJsEmptyFile" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTest.mapCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
+    <configuration name="AppTest.testlinterForJsErrorFree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linter_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="mapCalculator" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="testlinterForJsErrorFree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTest.tallyCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
+    <configuration name="AppTest.testlinterForJsFewErrors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linter_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="tallyCalculator" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="testlinterForJsFewErrors" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTest.testAverageCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
+    <configuration name="AppTest.testlinterForJsmanyErrors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linter_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="testAverageCalculator" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LibraryTest.uniqueCalculatorMapsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basiclibrary_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="uniqueCalculatorMapsTest" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="testlinterForJsmanyErrors" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.LibraryTest.testAverageCalculator" />
-      <item itemvalue="JUnit.LibraryTest.LowestCalculator" />
-      <item itemvalue="JUnit.LibraryTest.mapCalculator" />
-      <item itemvalue="JUnit.LibraryTest.tallyCalculator" />
-      <item itemvalue="JUnit.LibraryTest.uniqueCalculatorMapsTest" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.AppTest.testlinterForJsEmptyFile" />
+      <item itemvalue="JUnit.AppTest.testlinterForJsFewErrors" />
+      <item itemvalue="JUnit.AppTest.testlinterForJsmanyErrors" />
+      <item itemvalue="JUnit.AppTest.testlinterForJsErrorFree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LibraryTest.uniqueCalculatorMapsTest" />
-        <item itemvalue="JUnit.LibraryTest.tallyCalculator" />
-        <item itemvalue="JUnit.LibraryTest.mapCalculator" />
-        <item itemvalue="JUnit.LibraryTest.LowestCalculator" />
-        <item itemvalue="JUnit.LibraryTest.testAverageCalculator" />
+        <item itemvalue="JUnit.AppTest.testlinterForJsErrorFree" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest.testlinterForJsmanyErrors" />
+        <item itemvalue="JUnit.AppTest.testlinterForJsFewErrors" />
+        <item itemvalue="JUnit.AppTest.testlinterForJsEmptyFile" />
       </list>
     </recent_temporary>
   </component>
@@ -542,51 +607,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9a3936c4-e563-4932-999d-b171bd654986" name="Default Changelist" comment="" />
-      <created>1543382185968</created>
+      <changelist id="07305973-8cff-426b-aff4-24d3fb359ee6" name="Default Changelist" comment="" />
+      <created>1543550049988</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543382185968</updated>
+      <updated>1543550049988</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.29 at 19h 43m 18s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJs - 2018.11.29 at 22h 46m 03s.xml">
+      <configuration name="AppTest.testlinterForJs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 33m 28s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJs - 2018.11.29 at 22h 47m 36s.xml">
+      <configuration name="AppTest.testlinterForJs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 33m 42s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJs - 2018.11.29 at 22h 49m 49s.xml">
+      <configuration name="AppTest.testlinterForJs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 35m 15s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJs - 2018.11.30 at 11h 03m 39s.xml">
+      <configuration name="AppTest.testlinterForJs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 37m 19s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJs - 2018.11.30 at 11h 04m 04s.xml">
+      <configuration name="AppTest.testlinterForJs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 38m 24s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJsEmptyFile - 2018.11.30 at 11h 05m 39s.xml">
+      <configuration name="AppTest.testlinterForJsEmptyFile" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 49m 58s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJsEmptyFile - 2018.11.30 at 11h 06m 01s.xml">
+      <configuration name="AppTest.testlinterForJsEmptyFile" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 50m 45s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJsFewErrors - 2018.11.30 at 11h 08m 14s.xml">
+      <configuration name="AppTest.testlinterForJsFewErrors" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 54m 40s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJsFewErrors - 2018.11.30 at 11h 08m 28s.xml">
+      <configuration name="AppTest.testlinterForJsFewErrors" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTest_uniqueCalculatorMapsTest - 2018.11.30 at 10h 56m 22s.xml">
-      <configuration name="LibraryTest.uniqueCalculatorMapsTest" configurationId="JUnit" />
+    <history-entry file="AppTest_testlinterForJsmanyErrors - 2018.11.30 at 11h 10m 44s.xml">
+      <configuration name="AppTest.testlinterForJsmanyErrors" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="23" width="1440" height="800" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -595,7 +660,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42937854" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32768363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -603,8 +668,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.011299435" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32909605" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -620,27 +685,62 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/resources/error-free.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="207" column="70" selection-start-line="207" selection-start-column="70" selection-end-line="207" selection-end-column="70" />
+        <state>
+          <caret selection-end-line="100" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+    <entry file="file://$PROJECT_DIR$/resources/few-errors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-871">
-          <caret line="111" column="152" selection-start-line="111" selection-start-column="152" selection-end-line="111" selection-end-column="152" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="381">
+          <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
+    <entry file="file://$PROJECT_DIR$/resources/one-error.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
-          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+        <state relative-caret-position="451">
+          <caret line="100" column="39" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/gates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="10" lean-forward="true" selection-end-line="100" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/many-errors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/empty-file.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linter.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="107" column="46" selection-start-line="107" selection-start-column="46" selection-end-line="107" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
