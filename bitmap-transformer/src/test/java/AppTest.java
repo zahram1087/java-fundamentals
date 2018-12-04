@@ -16,6 +16,11 @@ import static org.junit.Assert.*;
 public class AppTest {
     @Test public void testAppHasAGreeting() {
         App classUnderTest = new App();
+        int width= 240;
+        int height = 240;
+
+        BufferedImage img = new BufferedImage(width,height, );
+
 
     }
 }

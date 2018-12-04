@@ -2,44 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a3936c4-e563-4932-999d-b171bd654986" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/modules/bitmap-transformer_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/modules/bitmap-transformer_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/bitmap-transformer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bitmap-transformer/src/main/java/Bitmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/modules/linter_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/modules/linter_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linter/linter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/LibraryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitmap-transformer/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../bitmap-transformer/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitmap-transformer/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../bitmap-transformer/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitmap-transformer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitmap-transformer/src/main/java/Bitmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bitmap-transformer/src/main/java/Bitmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../linter/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -59,7 +27,7 @@
     <session id="1561878022">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.opened" value="4" />
@@ -425,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-2" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -455,7 +423,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543604555870" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543606109544" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -583,8 +551,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="23" width="1440" height="800" extended-state="1" />
-    <editor active="true" />
+    <frame x="-2" y="23" width="1440" height="800" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -595,7 +562,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42937854" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42937854" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

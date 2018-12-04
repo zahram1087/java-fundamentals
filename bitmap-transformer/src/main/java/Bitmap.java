@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.nio.file.Path;
 
 public class Bitmap {
-    public  Path path;
+    public Path path;
     public BufferedImage imageData;
     public BufferedImage imageTest;
     public Bitmap(Path imagePath){
