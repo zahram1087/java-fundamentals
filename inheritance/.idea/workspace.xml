@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33c15176-93c2-4fa3-bbf7-44ce75faf7e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bitmap-transformer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitmap-transformer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RestaurantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestaurantTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -26,55 +25,102 @@
     <session id="-356748090">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="7" />
+          <entry key="java" value="25" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="25" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2258" />
+          <entry key="java" value="4350" />
           <entry key="md" value="439" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2258" />
+          <entry key="JAVA" value="4350" />
           <entry key="PLAIN_TEXT" value="439" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RestaurantTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="-2">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Restaurant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Shop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="25" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ShopTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Theater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="691" column="14" lean-forward="true" selection-start-line="691" selection-start-column="14" selection-end-line="691" selection-end-column="14" />
+            <state relative-caret-position="205">
+              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+              <folding>
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TheaterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -395,20 +441,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/ReviewTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Review.java" />
         <option value="$PROJECT_DIR$/inheritance.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/Restaurant.java" />
         <option value="$PROJECT_DIR$/src/test/java/RestaurantTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Restaurant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Review.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ShopTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Shop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheaterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Theater.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -430,6 +482,19 @@
               <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
               <item name="inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -443,12 +508,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544024967504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544044441984" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -472,71 +537,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RestaurantTest.testToConfirmExtend">
-    <configuration name="RestaurantTest.testInformationToStingMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TheaterTest.testingAddReviewMethod">
+    <configuration name="ShopTest.TestToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inheritance_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestaurantTest" />
-      <option name="METHOD_NAME" value="testInformationToStingMethod" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="TestToString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestaurantTest.testToConfirmExtend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShopTest.testAddMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inheritance_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestaurantTest" />
-      <option name="METHOD_NAME" value="testToConfirmExtend" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="testAddMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestaurantTest.testToStingMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TheaterTest.testingAddMovieMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inheritance_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestaurantTest" />
-      <option name="METHOD_NAME" value="testToStingMethod" />
+      <option name="MAIN_CLASS_NAME" value="TheaterTest" />
+      <option name="METHOD_NAME" value="testingAddMovieMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestaurantTest.testToStingMethodExtend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TheaterTest.testingAddReviewMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inheritance_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestaurantTest" />
-      <option name="METHOD_NAME" value="testToStingMethodExtend" />
+      <option name="MAIN_CLASS_NAME" value="TheaterTest" />
+      <option name="METHOD_NAME" value="testingAddReviewMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReviewTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TheaterTest.testingRemoveMovieMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inheritance_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReviewTest" />
-      <option name="METHOD_NAME" value="testToString" />
+      <option name="MAIN_CLASS_NAME" value="TheaterTest" />
+      <option name="METHOD_NAME" value="testingRemoveMovieMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RestaurantTest.testInformationToStingMethod" />
-      <item itemvalue="JUnit.ReviewTest.testToString" />
-      <item itemvalue="JUnit.RestaurantTest.testToStingMethod" />
-      <item itemvalue="JUnit.RestaurantTest.testToStingMethodExtend" />
-      <item itemvalue="JUnit.RestaurantTest.testToConfirmExtend" />
+      <item itemvalue="JUnit.ShopTest.TestToString" />
+      <item itemvalue="JUnit.TheaterTest.testingAddMovieMethod" />
+      <item itemvalue="JUnit.TheaterTest.testingRemoveMovieMethod" />
+      <item itemvalue="JUnit.ShopTest.testAddMethod" />
+      <item itemvalue="JUnit.TheaterTest.testingAddReviewMethod" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RestaurantTest.testToConfirmExtend" />
-        <item itemvalue="JUnit.RestaurantTest.testToStingMethodExtend" />
-        <item itemvalue="JUnit.RestaurantTest.testToStingMethod" />
-        <item itemvalue="JUnit.ReviewTest.testToString" />
-        <item itemvalue="JUnit.RestaurantTest.testInformationToStingMethod" />
+        <item itemvalue="JUnit.TheaterTest.testingAddReviewMethod" />
+        <item itemvalue="JUnit.ShopTest.testAddMethod" />
+        <item itemvalue="JUnit.ShopTest.TestToString" />
+        <item itemvalue="JUnit.TheaterTest.testingRemoveMovieMethod" />
+        <item itemvalue="JUnit.TheaterTest.testingAddMovieMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -554,42 +619,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 12h 20m 47s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="ShopTest_testAddMethod - 2018.12.05 at 12h 45m 17s.xml">
+      <configuration name="ShopTest.testAddMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 12h 22m 39s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="ShopTest_TestToString - 2018.12.05 at 12h 47m 08s.xml">
+      <configuration name="ShopTest.TestToString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 12h 34m 51s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="ShopTest_TestToString - 2018.12.05 at 12h 52m 02s.xml">
+      <configuration name="ShopTest.TestToString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 12h 55m 05s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="ShopTest_testAddMethod - 2018.12.05 at 12h 52m 05s.xml">
+      <configuration name="ShopTest.testAddMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 12h 55m 55s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="ShopTest_TestToString - 2018.12.05 at 12h 52m 56s.xml">
+      <configuration name="ShopTest.TestToString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 12h 58m 38s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="TheaterTest_testingAddReviewMethod - 2018.12.05 at 13h 02m 44s.xml">
+      <configuration name="TheaterTest.testingAddReviewMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 13h 03m 21s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="TheaterTest_testingAddReviewMethod - 2018.12.05 at 13h 05m 12s.xml">
+      <configuration name="TheaterTest.testingAddReviewMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 13h 06m 17s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="TheaterTest_testingAddReviewMethod - 2018.12.05 at 13h 06m 08s.xml">
+      <configuration name="TheaterTest.testingAddReviewMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 13h 06m 29s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="TheaterTest_testingAddReviewMethod - 2018.12.05 at 13h 08m 18s.xml">
+      <configuration name="TheaterTest.testingAddReviewMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RestaurantTest_testToConfirmExtend - 2018.12.04 at 13h 09m 30s.xml">
-      <configuration name="RestaurantTest.testToConfirmExtend" configurationId="JUnit" />
+    <history-entry file="TheaterTest_testingAddReviewMethod - 2018.12.05 at 13h 14m 04s.xml">
+      <configuration name="TheaterTest.testingAddReviewMethod" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -598,7 +663,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2019774" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31325302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -618,18 +683,41 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15662651" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.2807229" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReviewTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inheritance.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -644,17 +732,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Restaurant.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="510">
+          <caret line="655" column="10" selection-start-line="655" selection-start-column="10" selection-end-line="655" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReviewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RestaurantTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="-2">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="622" selection-start-line="622" selection-end-line="622" />
+          <folding>
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="450" selection-start-line="450" selection-end-line="450" />
+          <folding>
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#2871#2872#0" expanded="true" />
+            <element signature="e#2896#2897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="25" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Theater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding>
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

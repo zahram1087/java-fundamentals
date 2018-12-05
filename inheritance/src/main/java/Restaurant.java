@@ -1,3 +1,4 @@
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 
 /*
@@ -7,32 +8,23 @@ public class Restaurant { //extends Review
     public String name;
     public float numStars;
     public String price; //i.e. number of dollar signs).
-//    public int numreview;
+
 
     public Restaurant(String name, int numStars, String price) {
-
         this.name = name;
         this.numStars = numStars;
         this.price = price;
-//       this.review = review
 
     }
-//    public Restaurant() {
-//    }
-
     @Override
     public String toString() {
-        return this.name + this.numStars + this.price;
+        DecimalFormat df = new DecimalFormat("##.0");
+        return this.name + df.format(this.numStars) + this.price;
     }
 
-    public void collectingNumStars (){
-        ArrayList<Float> numStarsArr = new ArrayList<>();
-        numStarsArr.add(this.numStars);
-    }
     public void addReview(Review review) {
         ArrayList<Integer> numStarsArr = new ArrayList<>();
         numStarsArr.add(review.numStars);
-//        int newNumStarr= 0;
         if(this.numStars<0){
             float sum =this.numStars +review.numStars;
             this.numStars = sum/numStarsArr.size();
@@ -40,10 +32,6 @@ public class Restaurant { //extends Review
             float sum =this.numStars +review.numStars;
             this.numStars = sum/(numStarsArr.size()+1);
         }
-
-
-
-
 
     }
 }
