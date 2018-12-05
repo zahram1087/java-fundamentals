@@ -5,33 +5,19 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class RestaurantTest {
-    @Test public void testToStingMethod() {
+    @Test public void testRestaurantConstructor() {
         Restaurant r = new Restaurant("RedRobin", 2,"$");
-        String message = "RedRobin2$";
+        String message = "RedRobin2.0$";
         assertEquals(message,r.toString());
     }
-//
-//public class RestaurantTest {
-//    @Test public void testToStingMethod() {
-//        Restaurant classUnderTest = new Restaurant("RedRobin", 2,"$");
-//        String message = "RedRobin2$";
-//        assertEquals(message, classUnderTest.toString());
-//    }
 
-    @Test public void testToStingMethodExtend() {
-        Restaurant classUnderTest = new Restaurant("RedRobin", 2,"$");
-        String message = "RedRobin2$";
-        assertEquals(message, classUnderTest.toString());
-    }
-
-    @Test public void testToConfirmExtend() {
+    @Test public void testAddMethod() {
         Restaurant classUnderTest = new Restaurant("Burger King", 4, "$");
 
         Review burgerKing = new Review("good", "zahra", 5);
         //should add 4 and 9
         String message = "Burger King4.5$";
         classUnderTest.addReview(burgerKing);
-
 
         assertEquals(message, classUnderTest.toString());
 

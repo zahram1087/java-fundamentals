@@ -7,19 +7,15 @@ public class Review {
 
 
     public Review (String comment, String author, int numStars){
-
         this.comment = comment;
         this.author = author;
         this.numStars = numStars;
     }
 
-//    public Review() {
-//    }
-
     @Override
     public String toString() {
         return this.author+this.comment+this.numStars;
-    }
 
+    }
 
 }
