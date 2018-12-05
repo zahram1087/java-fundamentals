@@ -6,10 +6,17 @@ import static org.junit.Assert.*;
 
 public class RestaurantTest {
     @Test public void testToStingMethod() {
-        Restaurant classUnderTest = new Restaurant("RedRobin", 2,"$");
+        Restaurant r = new Restaurant("RedRobin", 2,"$");
         String message = "RedRobin2$";
-        assertEquals(message, classUnderTest.toString());
+        assertEquals(message,r.toString());
     }
+//
+//public class RestaurantTest {
+//    @Test public void testToStingMethod() {
+//        Restaurant classUnderTest = new Restaurant("RedRobin", 2,"$");
+//        String message = "RedRobin2$";
+//        assertEquals(message, classUnderTest.toString());
+//    }
 
     @Test public void testToStingMethodExtend() {
         Restaurant classUnderTest = new Restaurant("RedRobin", 2,"$");

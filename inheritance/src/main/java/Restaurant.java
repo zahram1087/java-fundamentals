@@ -22,9 +22,6 @@ public class Restaurant { //extends Review
 
     @Override
     public String toString() {
-//        String numStarsymbole = "";
-//        String priceSymbole = "";
-////        String reviewsymbole = "";
         return this.name + this.numStars + this.price;
     }
 
