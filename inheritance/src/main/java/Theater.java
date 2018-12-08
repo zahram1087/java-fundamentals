@@ -7,7 +7,7 @@ public class Theater { //hould have a name and all of the movies currently
     int numStars; //should be float later
     public String comment;
     public String author;
-     ArrayList<Review> reviewArr = new ArrayList<>();
+     ArrayList<Integer> numStarsArr = new ArrayList<>();
 
     public Theater(String name, String movie){
         this.name = name;
@@ -30,43 +30,38 @@ public class Theater { //hould have a name and all of the movies currently
 
     public void addReview(Review review) {
 
-//        ArrayList<Review> numStarsArr = new ArrayList<>();
-
-        if(this.numStars<=0){
+        ArrayList<Integer> numStarsArr = new ArrayList<>();
+        numStarsArr.add(review.numStars);
+        if(this.numStars<0){
             int sum =this.numStars +review.numStars;
-            this.numStars = sum/reviewArr.size();
+            this.numStars = sum/numStarsArr.size();
         }else{
             int sum =this.numStars +review.numStars;
-            this.numStars = sum/(reviewArr.size()+1);
+            this.numStars = sum/(numStarsArr.size()+1);
         }
+
 
         this.comment = review.comment;
         this.author = review.author;
-        reviewArr.add(review);
-
 
 
     }
 
-
+    @Override
     public String toString () {
         String listing ="";
+        int newStars;
+
         for (int i = 0; i < storedMovies.size(); i++) {
             listing+= "\nMovie: "+this.storedMovies.get(i);
         }
-        for(int i = 0; i<reviewArr.size(); i++){
-              int stars =           
-        }
 
         String TheaterInfo = "Theater: "+this.name+listing;
-//        String review = "Review: "+review.numStars+" "+this.author+" "+this.comment;
+        String review = "Review: "+this.author+" "+this.comment+" "+this.numStars;
         boolean bool = this.numStars == 0 && this.author == null && this.comment == null;
-        return bool ? TheaterInfo : TheaterInfo+review;
-    }
+        return bool ? TheaterInfo : TheaterInfo+" "+review;
 
-
-
-
+   }
 
 
 }
