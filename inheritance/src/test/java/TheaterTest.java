@@ -37,7 +37,7 @@ public class TheaterTest {
         t.numStars= 3;
         Review south = new Review("good", "zahra", 5);
         t.addReview(south);
-        String message ="Theater: south\nMovie: sun Review: good zahra 4";
+        String message ="Theater: south\nMovie: sun Review: zahra good 4";
         assertEquals(message, t.toString());
 
     }

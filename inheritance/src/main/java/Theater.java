@@ -30,18 +30,20 @@ public class Theater { //hould have a name and all of the movies currently
 
     public void addReview(Review review) {
 
-      ArrayList<Integer> numStarsArr = new ArrayList<>();
-      numStarsArr.add(review.numStars);
+        ArrayList<Integer> numStarsArr = new ArrayList<>();
+        numStarsArr.add(review.numStars);
         if(this.numStars<0){
             int sum =this.numStars +review.numStars;
-            this.numStars = sum/this.numStarsArr.size();
+            this.numStars = sum/numStarsArr.size();
         }else{
             int sum =this.numStars +review.numStars;
-            this.numStars = sum/(this.numStarsArr.size()+1);
+            this.numStars = sum/(numStarsArr.size()+1);
         }
+
 
         this.comment = review.comment;
         this.author = review.author;
+
 
     }
 
